@@ -9,6 +9,10 @@
   /* Her tilføjes theme variable // tokens */
 }
 
+@plugin "daisyul"(
+  themes: light --emerald, dark --dim;
+)
+
 @layer base {
   *,
   ::after,
